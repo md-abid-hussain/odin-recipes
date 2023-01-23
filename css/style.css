@@ -1,0 +1,25 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@1&display=swap');
+
+body{
+    background-color: rgb(237, 244, 246);
+    font-size: 1.5rem;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    font-size:7rem;
+    margin:1rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(151, 37, 37);
+}
+
+img{
+    width:45%;
+}
+
+ul{
+    list-style: none;
+}
+
